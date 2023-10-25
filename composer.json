@@ -1,0 +1,19 @@
+{
+    "name": "fibdesign/toolkit",
+    "description": "Some common needs in most projects in one place.",
+    "type": "plugin",
+    "license": "MIT",
+    "version": "0.1.0",
+    "autoload": {
+        "psr-4": {
+            "Fibdesign\\Toolkit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sadegh",
+            "email": "74778568+msghaderi77@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
