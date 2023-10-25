@@ -3,7 +3,7 @@
     "description": "Some common needs in most projects in one place.",
     "type": "plugin",
     "license": "MIT",
-    "version": "0.1.0",
+    "version": "0.1.2",
     "autoload": {
         "psr-4": {
             "Fibdesign\\Toolkit\\": "src/"
